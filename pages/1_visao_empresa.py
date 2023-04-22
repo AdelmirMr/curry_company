@@ -2,7 +2,7 @@
 # Libraries
 
 import plotly.express as px
-import plotly.graph_objetcs as go
+#import plotly.graph_objetcs as go
 
 # Bibliotecas necessárias
 
